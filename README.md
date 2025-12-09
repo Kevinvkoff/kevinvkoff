@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  Développeur passionné par la conception de systèmes robustes, évolutifs et performants, avec un accent particulier sur l'architecture des API REST et l'optimisation des processus métier.
+  Développeur backend python  django
 </p>
 
 <p align="center">
