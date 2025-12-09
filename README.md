@@ -1,6 +1,6 @@
-<h1 align="center">👋 Salut, je suis Kevin V. K. OFF</h1>
+<h1 align="center">👋 Salut, je suis Kevin VKOFF</h1>
 
-<h3 align="center">
+<h3 align="center font bold">
   Ingénieur Logiciel Backend | Python & Django
 </h3>
 
