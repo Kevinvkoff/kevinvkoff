@@ -66,7 +66,7 @@
 ## 🌐 `contact.send_message(urgent=True)`
 
 <p align="left">
-  <a href="https://linkedin.com/in/kevinvkoff" target="_blank">
+  <a href="https://www.linkedin.com/in/kevin-vk-%F0%9F%87%A8%F0%9F%87%A9%F0%9F%87%BF%F0%9F%87%B2-595a26333?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bl7UC%2FcNNSI6e3KkSJf2SKg%3D%3D" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/kevinvkoff" target="_blank">
@@ -75,7 +75,7 @@
   <a href="https://wa.me/+243 979541891" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="mailto:votre-email@exemple.com">
+  <a href="mailto:kevinverdos48@exemple.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
